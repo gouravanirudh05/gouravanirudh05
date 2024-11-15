@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **gouravbj2005@gmail.com**
+- 📫 How to reach me **GouravAnirudh.BJ@iiitb.ac.in**
 
 - ⚡ Fun fact **I am passionate about programming**
 
