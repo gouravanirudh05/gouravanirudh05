@@ -5,9 +5,9 @@
 
 ## 🎓 Computer Science Student at International Institute of Information Technology, Bangalore
 
-Passionate about technology, exploring the intersections of software development and innovative solutions.
+Passionate about various software technologies and their innovative uses through programming.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1500&color=207194&width=435&lines=Competitive+Programmer;MachineLearning+Enthusiast;Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1250&color=207194&width=435&lines=Competitive+Programmer;MachineLearning+Enthusiast;Web+developer)](https://git.io/typing-svg)
 
 ## 🚀 Technologies
 <p align="center">
