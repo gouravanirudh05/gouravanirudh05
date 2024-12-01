@@ -7,7 +7,7 @@
 
 Passionate about technology, exploring the intersections of software development and innovative solutions.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1000&color=207194&width=435&lines=Competitive+Programmer;Machine+Learning+Enthusiast;Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1500&color=207194&width=435&lines=Competitive+Programmer;MachineLearning+Enthusiast;Web+developer)](https://git.io/typing-svg)
 
 ## 🚀 Technologies
 <p align="center">
