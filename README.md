@@ -10,8 +10,20 @@ Passionate about various software technologies and their innovative uses through
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1250&color=207194&width=435&lines=Competitive+Programmer;MachineLearning+Enthusiast;Web+developer)](https://git.io/typing-svg)
 
 ## 🚀 Technologies
+
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,django,flask,react,express,nodejs,mongodb,css,git" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,HTML,css" alt="Languages"/>
+</p>
+
+### Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,react,express,nodejs,MongoDB,streamlit,selenium,tensorflow,pytorch" alt="Languages"/>
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase" alt="Languages"/>
 </p>
 
 ## 📫 Connect
