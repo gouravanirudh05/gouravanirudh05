@@ -23,4 +23,5 @@ Passionate about various software technologies and their innovative uses through
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravanirudh05&show_icons=true&locale=en" alt="gouravanirudh05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravanirudh05&" alt="gouravanirudh05" /></p>
-![Snake animation](https://raw.githubusercontent.com/{gouravanirudh05}/{gouravanirudh05}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/gouravanirudh05/gouravanirudh05/output/github-contribution-grid-snake-dark.svg)
+
