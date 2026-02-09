@@ -4,11 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravanirudh05&label=Profile%20views&color=0e75b6&style=flat" alt="gouravanirudh05" /> </p>
 
 ## 🎓 Computer Science Student at International Institute of Information Technology, Bangalore
-
-Passionate about various software technologies and their innovative uses through programming.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1250&color=207194&width=435&lines=Competitive+Programmer;MachineLearning+Enthusiast;Web+developer)](https://git.io/typing-svg)
-
 ## 🚀 Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,django,flask,react,express,nodejs,mongodb,css,git" alt="Technology Stack"/>
