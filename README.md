@@ -10,7 +10,6 @@
 </p>
 
 ## 📫 Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GouravAnirudh.BJ@iiitb.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gouravanirudh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouravanirudh)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravanirudh05&" alt="gouravanirudh05" /></p>
